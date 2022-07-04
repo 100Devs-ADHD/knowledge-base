@@ -14,7 +14,7 @@ Basic write ups &amp; links to helpful resources
   - [NextAuth.js](https://next-auth.js.org/) ([Docs](https://next-auth.js.org/getting-started/introduction))
 - Components/UI
   - [Mantine](https://mantine.dev/) ([Docs](https://mantine.dev/pages/basics/)) ([Pre-built examples](https://ui.mantine.dev/))
-  - [Storybook](https://storybook.js.org/) ([Dosc](https://storybook.js.org/docs/react/get-started/introduction))
+  - [Storybook](https://storybook.js.org/) ([Docs](https://storybook.js.org/docs/react/get-started/introduction))
 - Database
   - [Prisma](https://www.prisma.io/) ([Schema Docs](https://www.prisma.io/docs/concepts/components/prisma-schema)) ([Client Docs](https://www.prisma.io/docs/concepts/components/prisma-client/crud))
   - [MongoDB](https://www.mongodb.com/developer/languages/javascript/)
