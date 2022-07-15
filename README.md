@@ -10,6 +10,7 @@ Basic write ups &amp; links to helpful resources
 ## Technologies
 
 - Core
+  - [React](https://reactjs.org/) ([Docs](https://reactjs.org/docs/getting-started.html)) ([Newer Docs (**beta** - still being updated by React team)](https://beta.reactjs.org/))
   - [Next.js](https://nextjs.org/) ([Docs](https://nextjs.org/docs/getting-started))
   - [NextAuth.js](https://next-auth.js.org/) ([Docs](https://next-auth.js.org/getting-started/introduction))
 - Components/UI
@@ -19,5 +20,12 @@ Basic write ups &amp; links to helpful resources
   - [MongoDB](https://www.mongodb.com/developer/languages/javascript/)
 - Testing
   - [Cypress](https://www.cypress.io/) ([Docs](https://docs.cypress.io/guides/overview/why-cypress))
+
+## YouTube
+
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
+  - [Intro to React](https://www.youtube.com/playlist?list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe) (Playlist, videos are 5-15 minutes long each)
+- [Fireship.io](https://www.youtube.com/c/Fireship)
+  - [React Hooks](https://www.youtube.com/watch?v=TNhaISOUy6Q) (13 mins)
 
 ## APIS to Consider
